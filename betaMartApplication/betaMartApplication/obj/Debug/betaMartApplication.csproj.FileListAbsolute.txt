@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\betaMart_AnilaDwiLestari\betaMartApplication\betaMartApplication\bin\Debug\betaMartApplication.exe.config
+C:\Users\HP\Documents\betaMart_AnilaDwiLestari\betaMartApplication\betaMartApplication\bin\Debug\betaMartApplication.exe
+C:\Users\HP\Documents\betaMart_AnilaDwiLestari\betaMartApplication\betaMartApplication\bin\Debug\betaMartApplication.pdb
+C:\Users\HP\Documents\betaMart_AnilaDwiLestari\betaMartApplication\betaMartApplication\obj\Debug\betaMartApplication.FormBetaMart.resources
+C:\Users\HP\Documents\betaMart_AnilaDwiLestari\betaMartApplication\betaMartApplication\obj\Debug\betaMartApplication.Properties.Resources.resources
+C:\Users\HP\Documents\betaMart_AnilaDwiLestari\betaMartApplication\betaMartApplication\obj\Debug\betaMartApplication.csproj.GenerateResource.cache
+C:\Users\HP\Documents\betaMart_AnilaDwiLestari\betaMartApplication\betaMartApplication\obj\Debug\betaMartApplication.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\betaMart_AnilaDwiLestari\betaMartApplication\betaMartApplication\obj\Debug\betaMartApplication.exe
+C:\Users\HP\Documents\betaMart_AnilaDwiLestari\betaMartApplication\betaMartApplication\obj\Debug\betaMartApplication.pdb
+C:\Users\HP\Documents\betaMart_AnilaDwiLestari\betaMartApplication\betaMartApplication\obj\Debug\betaMartApplication.csprojAssemblyReference.cache
